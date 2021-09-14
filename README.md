@@ -88,6 +88,13 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you intereact with GitHub the more tailored your Explore view will be. 
 
+#### Introduction
+
+My name is Aidan Shepardson
+I am 22 years old and a senior here at CMU.
+I play on the baseball team for the university and I am from Texas.
+
+
 ## 📝 Optional next steps 
 
 * Open a pull request and let your teacher know that you’ve finished this course.  
