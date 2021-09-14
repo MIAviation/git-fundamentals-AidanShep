@@ -90,7 +90,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 #### Introduction
 
-My name is Aidan Shepardson
+My name is Aidan Shepardson.
 I am 22 years old and a senior here at CMU.
 I play on the baseball team for the university and I am from Texas.
 
